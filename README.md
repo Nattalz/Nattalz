@@ -26,7 +26,7 @@ Saya adalah seorang pelajar **Desain Komunikasi Visual (DKV)** yang memiliki ket
 ---
 
 ### 📫 Hubungi Saya
-- 📧 Email: `i@namadomainmu.cyou` (atau email pribadimu)
+- 📧 Email: `soon`
 - 💬 Pronouns: **They/Them**
 - ⚡ **Fun Fact:** Saya suka merapikan baris kode yang berantakan, sama seperti saya merapikan sistem grid di Adobe InDesign!
 <!---
