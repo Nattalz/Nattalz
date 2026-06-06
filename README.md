@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Andhika Ivander (Nattalz)
+# 👋 Halo, Saya Andhika (Nattalz)
 
 <p align="center">
   <!-- Taruh link banner pixel art buatanmu dari Aseprite di sini nanti -->
