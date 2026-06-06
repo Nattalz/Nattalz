@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Taruh link banner pixel art buatanmu dari Aseprite di sini nanti -->
-  <img src="https://via.placeholder.com/800x200?text=Pixel+Art+Banner+Kamu+Di+Sini" alt="Banner" width="100%">
+  <img src="https://placehold.co/800x200?text=Pixel+Art+Banner+Kamu+Di+Sini" alt="Banner" width="100%">
 </p>
 
 ### 🚀 Tentang Saya
